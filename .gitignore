@@ -1,0 +1,10 @@
+cmake-build-debug
+cmake-build-release
+cmake-build-release-mingw
+cmake-build-debug-mingw
+cmake-build-debug-visual-studio
+cmake-build-release-visual-studio
+cmake-build-debug-wsl
+cmake-build-release-wsl
+*.DS_store
+frame
