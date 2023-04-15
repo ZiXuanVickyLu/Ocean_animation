@@ -1,7 +1,7 @@
 // Disable warning for loss of data
 #pragma warning( disable : 4244 )  
 
-#include <malloc.h>
+#include <memory.h>
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
